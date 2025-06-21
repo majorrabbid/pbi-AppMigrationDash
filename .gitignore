@@ -1,0 +1,10 @@
+# Create organized folders
+mkdir dax-queries
+mkdir visuals-documentation
+mkdir datasets
+mkdir reports
+mkdir templates
+
+# Create initial files
+New-Item README.md -ItemType File
+New-Item .gitignore -ItemType File
